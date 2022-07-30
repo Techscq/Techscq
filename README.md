@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Techscq
-    31 Years old guy from Venezuela
+    31 Years old guy from Venezuela, learning and programming since the age of 16 most knowledge self-taught and free accessed
 
 - 👀 I’m interested in ...
     Anything related to Web and Software Development, mainly Core PHP with Laravel as main PHP Framework.
