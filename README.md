@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techscq
+- 👋 Hi, I’m @Nulled
     31 Years old guy from Venezuela, learning and programming since the age of 16 most knowledge self-taught and free accessed
 
 - 👀 I’m interested in ...
